@@ -89,15 +89,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pruthvirajsinhpunada&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-###
-
-<h2 align="left">✍️ Random Dev Quote</h2>
-
-###
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
 
 ###
 
