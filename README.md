@@ -81,28 +81,3 @@
 
 ###
 
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvirajsinhpunada&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-
-###
-
-<h2 align="left">🔝 Top Contributed Repo</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pruthvirajsinhpunada&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
-
-###
-
-<br/>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pruthvirajsinhpunada&icon=0&color=0" alt="Profile Views"/>
-</div>
