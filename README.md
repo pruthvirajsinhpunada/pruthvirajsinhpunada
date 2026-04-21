@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajsinhpunada&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=pruthvirajsinhpunada&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ###
