@@ -63,32 +63,3 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-```md
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pruthvirajsinhpunada&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pruthvirajsinhpunada&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajsinhpunada&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
-
-</div>
-
-###
-```
-
-GitHub README markdown editor should use normal HTML, not escaped HTML.  
-Right now your code has `&lt;` and `&gt;` instead of `<` and `>` so GitHub is showing it as text instead of rendering the cards.
-
