@@ -8,7 +8,7 @@
 
 <p align="left">
 🍎 iOS & visionOS developer — building native Apple platform apps with Swift, SwiftUI, RealityKit, and CoreML.<br><br>
-🏆 Swift Student Challenge 2026 — created <strong>EchoPaint</strong>, an accessibility drawing app for blind users using sound & touch.<br><br>
+🏆 Swift Student Challenge 2026 — created <strong>SignBridge</strong>, an accessibility app for learning asl sign language.<br><br>
 🤖 Blending mobile development with Machine Learning — SVM, TensorFlow, PyTorch, and real-time anomaly detection.<br><br>
 🎓 Bachelor's thesis on SVM-based object recognition using the CIFAR-10 dataset.<br><br>
 💬 Ask me about Swift, visionOS, CoreML, or on-device AI.<br><br>
