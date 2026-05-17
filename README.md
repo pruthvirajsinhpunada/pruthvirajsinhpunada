@@ -12,11 +12,13 @@
 
 <p align="left">
 🍎 iOS & visionOS developer — building native Apple platform apps with Swift, SwiftUI, RealityKit, and CoreML.<br><br>
-🏆 Swift Student Challenge 2026 — created <strong>SignBridge</strong>, an accessibility app for learning asl sign language.<br><br>
-🤖 Blending mobile development with Machine Learning — SVM, TensorFlow, PyTorch, and real-time anomaly detection.<br><br>
+🌐 Web developer — production sites with Next.js, React, TypeScript, and Tailwind CSS, shipped on Vercel and Cloudflare.<br><br>
+🤖 Machine Learning engineer — SVM, TensorFlow, PyTorch, scikit-learn; on-device inference with CoreML and real-time anomaly detection.<br><br>
+🎨 3D / Immersive Web — Three.js, React Three Fiber, Blender → WebGL / WebGPU pipelines, USDZ for Apple platforms.<br><br>
+🏆 Swift Student Challenge 2026 — created <strong>SignBridge</strong>, an accessibility app for learning ASL sign language.<br><br>
 🎓 Bachelor's thesis on SVM-based object recognition using the CIFAR-10 dataset.<br><br>
-💬 Ask me about Swift, visionOS, CoreML, or on-device AI.<br><br>
-⚡ Fun fact: I've shipped apps for iPhone, iPad, and Apple Vision Pro.
+💬 Ask me about Swift, visionOS, CoreML, Next.js, Three.js, on-device AI, or RealityKit pipelines.<br><br>
+⚡ Fun fact: I've shipped apps for iPhone, iPad, Apple Vision Pro — and websites for paying clients in Italy.
 </p>
 
 ###
@@ -101,26 +103,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pruthvirajsinhpunada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-###
-
-<h2 align="left">🏆 Trophies:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvirajsinhpunada&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</div>
-
-###
-
-<h2 align="left">📈 Activity Graph:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvirajsinhpunada&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ###
