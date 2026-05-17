@@ -101,9 +101,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pruthvirajsinhpunada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthvirajsinhpunada&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajsinhpunada&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ###
