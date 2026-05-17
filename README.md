@@ -1,5 +1,9 @@
 <h1 align="left">👋 Hi, I'm Pruthvirajsinh Punada</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007AFF&center=true&vCenter=true&width=600&height=60&lines=iOS+%26+visionOS+Developer;RealityKit+%2B+SwiftUI+%2B+CoreML;Building+for+Apple+Vision+Pro;3D+%2F+Immersive+Web+Explorer" alt="Typing SVG" />
+</div>
+
 ###
 
 <h2 align="left">🧑‍💻 About Me:</h2>
@@ -88,6 +92,39 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
 </p>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pruthvirajsinhpunada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthvirajsinhpunada&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajsinhpunada&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
+###
+
+<h2 align="left">🏆 Trophies:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pruthvirajsinhpunada&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+###
+
+<h2 align="left">📈 Activity Graph:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvirajsinhpunada&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ###
 
