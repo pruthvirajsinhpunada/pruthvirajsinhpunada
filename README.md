@@ -37,9 +37,3 @@ Production sites with React and Next.js, deployed on Vercel and Cloudflare.
 - **Swift Student Challenge 2026** — *SignBridge*, an accessibility app for learning ASL.
 - Shipped apps for **iPhone, iPad, and Apple Vision Pro**.
 - Delivered production websites for **paying clients in Italy**.
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajsinhpunada&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=8b949e&text_color=8b949e&hide=contribs" height="150" alt="GitHub stats" />
-</div>
